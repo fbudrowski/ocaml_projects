@@ -1,4 +1,4 @@
-**Please keep in mind that this project is from 2017.**
+**Please keep in mind that this project is from fall 2016.**
 ## Ocaml projects 
 
 This repository contains the solutions to the programming assignments for the Fall 2016 Introduction to Programming course at the University of Warsaw. 
