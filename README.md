@@ -1,7 +1,7 @@
-**Please keep in mind that this project is from fall 2016.**
+**Please keep in mind that this project is from fall 2017.**
 ## Ocaml projects 
 
-This repository contains the solutions to the programming assignments for the Fall 2016 Introduction to Programming course at the University of Warsaw. 
+This repository contains the solutions to the programming assignments for the Fall 2017 Introduction to Programming course at the University of Warsaw. 
 
 #### Calculator for physicists
 This project implements floating-point arithmetics for values with an error allowance. Say, we measure speed as 5 km/h +- 0.1km/h. We would like to see how this uncertainty of measurement affects other variables.
